@@ -1,16 +1,11 @@
-[
-  {
-    "ticker": "NSE:APLLTD",
-    "companyName": "Alembic Pharmaceuticals Ltd",
-    "sharesOwned": 720,
-    "investment": 418160,
-    "stockType": "LION",
-    "sector": "PHARMA",
-    "stockRecommendation": "HOLD",
-    "shareCapital": 37.7,
-    "faceValue": 2,
-    "supportLevel": 472,
-    "mcUrl": "http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/alembicpharmaceuticals/AP35",
-    "screenerUrl": "https://www.screener.in/company/APLLTD/consolidated/"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
