@@ -54,47 +54,5 @@
     supportLevel: 2450,
     mcUrl: "https://www.moneycontrol.com/india/stockpricequote/auto-2-3-wheelers/bajajauto/BA10",
     screenerUrl: "https://www.screener.in/company/BAJAJ-AUTO/consolidated/"
-  },
-  {
-    ticker: "NSE:BANDHANBNK",
-    companyName: "Bandhan Bank Ltd",
-    sharesOwned: 1264,
-    investment: 347270,
-    stockType: "LION",
-    sector: "Banks - Private Sector",
-    stockRecommendation: "BUY",
-    shareCapital: 1193.08,
-    faceValue: 10,
-    supportLevel: 560,
-    mcUrl: "https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/bandhanbank/BB09",
-    screenerUrl: "https://www.screener.in/company/BANDHANBNK/"
-  },
-  {
-    ticker: "NSE:BODALCHEM",
-    companyName: "Bodal Chemicals Ltd",
-    sharesOwned: 4000,
-    investment: 520970,
-    stockType: "PANTHER",
-    sector: "Dyes & Pigments",
-    stockRecommendation: "HOLD",
-    shareCapital: 21.82,
-    faceValue: 2,
-    supportLevel: 77,
-    mcUrl: "http://www.moneycontrol.com/india/stockpricequote/dyes-pigments/bodalchemicals/BC15",
-    screenerUrl: "https://www.screener.in/company/BODALCHEM/"
-  },
-  {
-    ticker: "NSE:EQUITAS",
-    companyName: "Equitas Holdings Ltd",
-    sharesOwned: 3220,
-    investment: 458356,
-    stockType: "PANTHER",
-    sector: "Finance - General",
-    stockRecommendation: "BUY",
-    shareCapital: 337.81,
-    faceValue: 10,
-    supportLevel: 100,
-    mcUrl: "http://www.moneycontrol.com/india/stockpricequote/finance-general/equitasholdings/EH03",
-    screenerUrl: "https://www.screener.in/company/EQUITAS/consolidated/"
   }
 ]
