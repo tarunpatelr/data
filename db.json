@@ -26,47 +26,5 @@
     supportLevel: 255,
     mcUrl: "http://www.moneycontrol.com/india/stockpricequote/finance-leasing-hire-purchase/armanfinancialservices/AFS04",
     screenerUrl: "https://www.screener.in/company/ARMANFIN/consolidated/"
-  },
-  {
-    ticker: "BSE:AVANTI",
-    companyName: "Avanti Feeds Ltd",
-    sharesOwned: 1960,
-    investment: 423342,
-    stockType: "PANTHER",
-    sector: "FARM & FARM INPUTS",
-    stockRecommendation: "BUY",
-    shareCapital: 13.62,
-    faceValue: 1,
-    supportLevel: 300,
-    mcUrl: "http://www.moneycontrol.com/india/stockpricequote/aquaculture/avantifeeds/AF21",
-    screenerUrl: "https://www.screener.in/company/AVANTIFEED/"
-  },
-  {
-    ticker: "NSE:BAJAJ-AUTO",
-    companyName: "Bajaj Auto Ltd",
-    sharesOwned: 40,
-    investment: 90072,
-    stockType: "LION",
-    sector: "Auto - 2 & 3 Wheelers",
-    stockRecommendation: "HOLD",
-    shareCapital: 289.37,
-    faceValue: 10,
-    supportLevel: 2450,
-    mcUrl: "https://www.moneycontrol.com/india/stockpricequote/auto-2-3-wheelers/bajajauto/BA10",
-    screenerUrl: "https://www.screener.in/company/BAJAJ-AUTO/consolidated/"
-  },
-  {
-    ticker: "NSE:MAHLOG",
-    companyName: "Mahindra Logistics Ltd",
-    sharesOwned: 400,
-    investment: 193872,
-    stockType: "NA",
-    sector: "LOGISTICS",
-    stockRecommendation: "NA",
-    shareCapital: 71.14,
-    faceValue: 10,
-    supportLevel: 380,
-    mcUrl: "https://www.moneycontrol.com/india/stockpricequote/diversified/mahindralogistics/ML04",
-    screenerUrl: "https://www.screener.in/company/MAHLOG/consolidated/"
   }
 ]
