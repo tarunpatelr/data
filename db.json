@@ -12,19 +12,5 @@
     "supportLevel": 472,
     "mcUrl": "http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/alembicpharmaceuticals/AP35",
     "screenerUrl": "https://www.screener.in/company/APLLTD/consolidated/"
-  },
-  {
-    "ticker": "NSE:ARMANFIN",
-    "companyName": "Arman Financial Services Ltd",
-    "sharesOwned": 620,
-    "investment": 210675,
-    "stockType": "PANTHER",
-    "sector": "FINANCIAL SERVICES",
-    "stockRecommendation": "BUY",
-    "shareCapital": 6.92,
-    "faceValue": 10,
-    "supportLevel": 255,
-    "mcUrl": "http://www.moneycontrol.com/india/stockpricequote/finance-leasing-hire-purchase/armanfinancialservices/AFS04",
-    "screenerUrl": "https://www.screener.in/company/ARMANFIN/consolidated/"
   }
 ]
